@@ -1,4 +1,4 @@
-const baseUrl = "https://whale-app-9c2qq.ondigitalocean.app/api";
+const baseUrl = "";
 
 export const APIUrls = {
   login: baseUrl + "/login",
