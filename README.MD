@@ -70,7 +70,7 @@ npx expo start
 
 3. insert your api key here: `const apiToken = '';`
 
-# Connecting app with DB
+# Connecting app with Database
 1. go to constants/APIURLS.ts 
 2. replace baseUrl with your Api link from digital ocean
 
