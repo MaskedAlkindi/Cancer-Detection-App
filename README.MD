@@ -77,25 +77,25 @@ npx expo start
 
 ## Screenshots
 ### Login Page
-![Login Page](/screenshots/LoginPage.jpeg)
+![Login Page](/Screenshots/LoginPage.jpeg)
 
 ### Signup Page
-![Signup Page](/screenshots/SignupPage.jpeg)
+![Signup Page](/Screenshots/SignupPage.jpeg)
 
 ### Upload Picture Page (User)
-![Upload Picture Page](/screenshots/UploadPicturePage.jpeg)
+![Upload Picture Page](/Screenshots/UploadPicturePage.jpeg)
 
 ### Upload Picture Page 2 (with photo selected) (User)
-![Upload Picture Page 2](/screenshots/UploadPicturePage2.jpeg)
+![Upload Picture Page 2](/Screenshots/UploadPicturePage2.jpeg)
 
 ### Results Modal (User)
-![Results Modal](/screenshots/Results.jpeg)
+![Results Modal](/Screenshots/Results.jpeg)
 
 ### Recommendations Page (User)
-![Recommendations Page](/screenshots/recommendations.jpeg)
+![Recommendations Page](/Screenshots/recommendations.jpeg)
 
 ### Add Pharmacy Page (Admin)
-![Add Pharmacy Page](/screenshots/addpharmacy.jpeg)
+![Add Pharmacy Page](/Screenshots/addpharmacy.jpeg)
 
 
 ## License
